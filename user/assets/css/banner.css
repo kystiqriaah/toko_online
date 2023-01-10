@@ -1,0 +1,11 @@
+.warna{
+    background-color: aquamarine;
+}
+.banner{
+    height: 80vh;
+    background: linear-gradient(rgba(0,0,0,0.4) , rgba(0,0,0,0.4)), url('../img/banner/Categories4.jpg');
+}
+.highlighted-kategori{
+    border: solid;
+    height: 250px;
+}
